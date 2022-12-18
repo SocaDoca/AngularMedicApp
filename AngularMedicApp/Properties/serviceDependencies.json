@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "mysql": {
+      "type": "mysql",
+      "connectionId": "ConnectionStrings:UseMySqlConnection"
+    }
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:DefaultConnection"
+    }
+  }
+}
